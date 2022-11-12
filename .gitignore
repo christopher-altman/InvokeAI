@@ -209,3 +209,9 @@ configs/models.yaml
 
 # weights (will be created by installer)
 models/ldm/stable-diffusion-v1/*.ckpt
+*.jpg
+*.png
+models/ldm/stable-diffusion-v1/sd1.5-Cyberpunk Anime Diffusion-RTFM Cyber-Euler A or DDIM-CFG Scale 7-20 steps-dgs illustration-muscular male.rtfd/TXT.rtf
+models/ldm/stable-diffusion-v1/sd1.5-MoDi Diffusion RTFM invoke with modern disney style.rtfd/TXT.rtf
+*.rtf
+models/ldm/stable-diffusion-v1/Put Stable Diffusion checkpoints here.txt
